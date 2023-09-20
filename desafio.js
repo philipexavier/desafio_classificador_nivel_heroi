@@ -1,6 +1,8 @@
-/* # Desafio Classificador de nível de Heróis
+/* 
 
-## Objetivo
+# Desafio Classificador de nível de Heróis
+
+## Objetivo:
 
 Crie uma variável para armazenar o nome e a quantidade de experiência (XP) de um herói, depois utilize uma estrutura de decisão para apresentar alguma das mensagens abaixo:
 
@@ -13,10 +15,12 @@ Se XP for entre 8.001 e 9.000 = Ascendente
 Se XP for entre 9.001 e 10.000= Imortal
 Se XP for maior ou igual a 10.001 = Radiante
 
-## Saída
+## Saída:
 
 Ao final deve se exibir uma mensagem:
-"O Herói de nome **{nome}** está no nível de **{nivel}**"*/
+"O Herói de nome **{nome}** está no nível de **{nivel}**"
+
+*/
 
 //Criando varáveis para armazenar o nome e a quantidade de experiência (XP) de um herói
 // require importa um modulo externo, nesse caso importa prompt-sync, um pacote npm que permite obter a entrada do usuário de forma síncrona no Node.js
